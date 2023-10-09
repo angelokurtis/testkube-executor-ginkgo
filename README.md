@@ -1,7 +1,3 @@
-# DEPRECATED
-
-This executor was moved into [Testkube](https://github.com/kubeshop/testkube/tree/develop/contrib/executor/ginkgo) repository.
-
 ![Testkube Logo](https://raw.githubusercontent.com/kubeshop/testkube/main/assets/testkube-color-gray.png)
                                                            
 # Welcome to the Testkube Ginkgo Executor
